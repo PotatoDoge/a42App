@@ -15,17 +15,10 @@
         app:srcCompat="@drawable/logo" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/logIn_button"
         android:layout_width="120dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
-        android:text="Log in" />
-
-    <Button
-        android:id="@+id/button5"
-        android:layout_width="120dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
-        android:text="Sign up" />
+        android:text="@string/log_in" />
 
 </LinearLayout>

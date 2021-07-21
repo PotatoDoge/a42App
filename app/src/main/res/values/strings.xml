@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">a42App</string>
+    <string name="app_name">A42</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="info">Bastian Prado / 2021</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="enter">Enter</string>
 </resources>
