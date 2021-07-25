@@ -6,4 +6,6 @@
     <string name="user">User</string>
     <string name="password">Password</string>
     <string name="enter">Enter</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
 </resources>
