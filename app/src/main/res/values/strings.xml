@@ -8,4 +8,7 @@
     <string name="enter">Enter</string>
     <string name="navigation_drawer_open" />
     <string name="navigation_drawer_close" />
+    <string name="productos">Productos</string>
+    <string name="ordenes">Ordenes</string>
+    <string name="informacion">Información</string>
 </resources>
