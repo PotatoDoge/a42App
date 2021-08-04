@@ -15,9 +15,10 @@
         <!-- Remove the action bar -->
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-        <!-- Transition between activities -->
+        <!-- Transition between activities-->
         <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
     </style>
+
 
     <style name="CustomActivityAnimation" parent="@android:style/Animation.Activity">
         <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>

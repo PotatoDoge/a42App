@@ -11,4 +11,10 @@
     <string name="productos">Productos</string>
     <string name="ordenes">Ordenes</string>
     <string name="informacion">Información</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="business_a42">Business: A42</string>
+    <string name="profile_fragment">PROFILE FRAGMENT</string>
+    <string name="product_fragment">PRODUCT FRAGMENT</string>
+    <string name="orders_fragment">ORDERS FRAGMENT</string>
 </resources>
