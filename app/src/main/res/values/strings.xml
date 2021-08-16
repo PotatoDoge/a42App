@@ -17,4 +17,5 @@
     <string name="profile_fragment">PROFILE FRAGMENT</string>
     <string name="product_fragment">PRODUCT FRAGMENT</string>
     <string name="orders_fragment">ORDERS FRAGMENT</string>
+    <string name="feed">FEED</string>
 </resources>
